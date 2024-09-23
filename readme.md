@@ -8,3 +8,4 @@ Este archivo es parte de la entrega del proyecto realizado el **16 de septiembre
 **es.inzunza@duocuc.cl**
 
 # conflicto resuelto!!! 
+# navegación lista
