@@ -5,3 +5,4 @@ Este archivo es parte de la entrega del proyecto realizado el **16 de septiembre
 ## Autor
 
 **Esteban Inzunza**
+**es.inzunza@duocuc.cl**
