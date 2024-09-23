@@ -9,3 +9,4 @@ Este archivo es parte de la entrega del proyecto realizado el **16 de septiembre
 
 # conflicto resuelto!!! 
 # navegación lista
+# estilo eliminado# repositorio regenerado
